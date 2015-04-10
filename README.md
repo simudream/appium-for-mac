@@ -1,3 +1,5 @@
+FIXED TO COMPILE AND BUILD FOR MAC OS SDK 10.10
+
 Appium For Mac
 ===============================
 
